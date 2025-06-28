@@ -46,25 +46,36 @@ A simple React Native to-do list app with support for adding, editing, deleting,
 
 2. **Install dependencies**
     \# Using npm
+   
     npm install
     
     \# Or using Yarn
+   
     yarn install
-3. **Link native dependencies (only for React Native < 0.60)**
+4. **Link native dependencies (only for React Native < 0.60)**
+5. 
     npx react-native link
-4. **Run the app**
+   
+7. **Run the app**
+   
    ~ Android
+   
    \# Start Metro bundler
+   
     npx react-native start
     
    \# In another terminal
+   
     npx react-native run-android
    
    ~ iOS
+   
    \# Start Metro bundler
+   
     npx react-native start
     
    \# In another terminal
+   
     npx react-native run-ios
 
 ## Usage
