@@ -45,6 +45,7 @@ A simple React Native to-do list app with support for adding, editing, deleting,
    cd your-todolist
 
 2. **Install dependencies**
+   
     \# Using npm
    
     npm install
@@ -67,6 +68,7 @@ A simple React Native to-do list app with support for adding, editing, deleting,
    \# In another terminal
    
     npx react-native run-android
+   
    
    ~ iOS
    
